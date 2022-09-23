@@ -2,3 +2,7 @@
 https://www.youtube.com/watch?v=qUsYSNrsr8s
 :: Criando card
 https://www.youtube.com/watch?v=mhwGQ9XRBD8
+:: Raondom Card
+https://blog.unitybuddy.com/random-card-generator-with-unityc
+:: Timer
+https://blog.unitybuddy.com/how-to-make-a-timer-with-unityc-in-5-minutes
